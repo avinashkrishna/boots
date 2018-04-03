@@ -1,0 +1,21 @@
+.red_color{
+    color: red;
+}
+
+.search_box{
+    border-radius: 25px;
+    border: 1px solid gray;
+    width: 20em;
+    height: 2.5em;
+    padding: 5px;
+}
+
+.btn_right{
+    float: right;
+    color:brown;
+    border: 1px solid brown;
+}
+
+.bg_white{
+    background-color: white;
+}
