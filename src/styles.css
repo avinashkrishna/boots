@@ -59,3 +59,9 @@ body,html,.row-offcanvas {
       top: 0;
     }
   }
+  .bg_white{
+    background-color: white;
+}
+.red_color{
+  color: brown;
+}
